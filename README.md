@@ -1,1 +1,1 @@
-# EclipsePractice
+# JavaPractice
