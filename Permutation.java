@@ -29,6 +29,7 @@ public class Permutation {
 			}
 			counter++;
 			System.out.println();
+			return;
 		}
 		
 		//This is the main logic for finding permutations.
